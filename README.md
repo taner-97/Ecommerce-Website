@@ -7,6 +7,6 @@
   some featured categories images, then some featured products with product price, image and rating. 
 
 
-### Screenshots
+### Screenshot
 
 ![screenshot](https://user-images.githubusercontent.com/75890463/134480980-7288ce01-06a9-4494-a84e-3ea4f5d3dc9d.jpeg)
